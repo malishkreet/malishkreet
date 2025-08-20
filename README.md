@@ -70,6 +70,6 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/MaximZaikin?theme=dark&font=Happy%20Monkey" alt="Leetcode Stats" />
+<img src="https://leetcard.jacoblin.cool/MaximZaikin?theme=dark" alt="Leetcode Stats" />
 
 </div>
