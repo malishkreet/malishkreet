@@ -10,18 +10,18 @@
 
 ### 👨‍💻 Обо мне
 
-**Full-stack разработчик, приоритет — фронт.**  
-Фокус — **React + JS**.  
-Бэкенд закрываю сам: **Java + Spring Boot** — API, безопасность, БД.
+**Full-stack разработчик, приоритет — Бэк.**  
+Фронт — **React + JS**.  
+Бэкенд: **Java + Spring Boot** — API, безопасность, БД.
 
-**Фронтенд (приоритет)**  
+**Фронтенд**  
 - React, маршруты, формы.  
 - Работа с API и состоянием.  
 - Pixel-perfect: сетка Figma, шрифты, отступы.  
 - Состояния: loading / empty / error.  
 - Стили: CSS Modules / Emotion / Tailwind.
 
-**Бэкенд (делаю на проектах)**  
+**Бэкенд**  
 - REST-сервисы на Spring Boot.  
 - Безопасность: Spring Security + JWT, роли и права, CORS, валидация.  
 - PostgreSQL, JPA/Hibernate, миграции Liquibase.
